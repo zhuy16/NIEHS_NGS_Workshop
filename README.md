@@ -3,10 +3,11 @@
 This depository is setup for NIEHS training for RNA-seq
 
 Please log into your biowulf account, 
-
+```
 ln -s /data/user_id/ data
 cd data
 git clone https://github.com/zhuy16/NIEHS_RNA_seq_training.git 
+```
 
 # This training will be divided into 4 parts. 
 
