@@ -1,4 +1,4 @@
-# NIEHS_RNA_seq_training
+# NIEHS_NGS_Workshop
 
 This depository is setup for NIEHS training for RNA-seq
 
