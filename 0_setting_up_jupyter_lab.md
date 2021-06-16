@@ -11,7 +11,7 @@
 > ### now copy the url to your web browser <br>
 
 # a, to install Python packages to python/3.7 kernel
-$ module load python/3.7
+$ module load python/3.7 <br>
 $ pip install --user mypackage
 
 
