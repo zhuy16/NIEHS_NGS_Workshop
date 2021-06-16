@@ -1,16 +1,5 @@
-# NIEHS_NGS_Workshop
-
-This depository is setup for NIEHS training for RNA-seq.
-We will use biowulf and use jupyter lab as an interface. 
-
-Please log into your biowulf account, 
-```
-ln -s /data/user_id/ data
-cd data
-git clone https://github.com/zhuy16/NIEHS_RNA_seq_training.git 
-```
-
-# This training will be divided into 3 parts. 
+# NIEHS_NGS_Workshop <br>
+## This training will be divided into 3 parts. 
 
 Bulk-RNA-seq <br>
 Chip-seq<br>
@@ -35,3 +24,18 @@ To start with jupyter lab.
 # to install Python packages to python/3.7 kernel
 $ module load python/3.7 <br>
 $ pip install --user mypackage
+
+
+This depository is setup for NIEHS training for RNA-seq.
+We will use biowulf and use jupyter lab as an interface. 
+
+Please log into your biowulf account, 
+```
+# establish pseudo links to our workshop folder. 
+ln -s /spin1/users/classes/NIEHS_NGS/NIEHS_NGS_Workshop # class resources
+ln -s /scratch/zhuy16/ scratch # temporary use, shared storage
+cp -r NIEHS_NGS_Workshop scatch/workshop # a local copy for your own use
+
+ln -s /data/user_id/ data # 100G quota
+#git clone https://github.com/zhuy16/NIEHS_RNA_seq_training.git 
+```
