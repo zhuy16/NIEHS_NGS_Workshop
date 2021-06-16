@@ -2,7 +2,7 @@
 This is 2-day (4hr each day) workshop on NGS data analysis.<br> 
 We will use biowulf HPC as the computation evironment, and use jupyter lab as a interface  <br>
 
-**This repository is for illustration only. Data files are included on biowulf folders for use in the class.**<br>
+**This repository is for illustration only. Data files are included in biowulf folders for use in the class.**<br>
 
 Target audience: NIEHS researchers who want to learn NGS data analysis.
 
