@@ -60,3 +60,7 @@ ln -s /data/user_id/ data # 100G quota
 #git clone https://github.com/zhuy16/NIEHS_RNA_seq_training.git 
 ```
 # The schedule of this workshop
+day1,<br>
+<img src="resources/day1schedule.png">
+day2,<br>
+<img src="resources/day2schedule.png">
