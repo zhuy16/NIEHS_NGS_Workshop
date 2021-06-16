@@ -1,19 +1,18 @@
 
-### We will use jupyter lab interface on Biowulf. (NIH)
-# login into biowulf with ssh, initiate a detachable terminal through tmux, request a working node with sinteractive, and start to work with jupyter lab
+# We will use jupyter lab interface on Biowulf. (NIH)
+## login into biowulf with ssh, initiate a detachable terminal through tmux, request a working node with sinteractive, and start to work with jupyter lab
 > ssh -tX usr.name@biowulf.nih.gov <br>
 > module load tmux; tmux new <br>
 > sinteractive --mem=50g --gres=lscratch:5 --tunnel 
-> # copy the code "ssh ..." to a new terminal and enter. <br>
-> # come back to the terminal with working node, type --
+> ### copy the code "ssh ..." to a new terminal and enter. <br>
+> ### come back to the terminal with working node, type --
 > module load jupyter <br>
 > jupyter lab --ip localhost --port $PORT1 --no-browser 
-> # now copy the url to your web browser <br>
+> ### now copy the url to your web browser <br>
 
 # a, to install Python packages to python/3.7 kernel
 $ module load python/3.7
 $ pip install --user mypackage
-
 
 
 # Alternatively, if you are familar with nano and .bashrc. just do this to achieve the same thing. 
