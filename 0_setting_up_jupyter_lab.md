@@ -5,7 +5,7 @@
 > module load tmux; tmux new <br>
 > sinteractive --mem=50g --gres=lscratch:5 --tunnel 
 > ### copy the code "ssh ..." to a new terminal and enter. <br>
-> ### come back to the terminal with working node, type --
+> ### come back to the tmux terminal with compute node, type --
 > module load jupyter <br>
 > jupyter lab --ip localhost --port $PORT1 --no-browser 
 > ### now copy the url to your web browser <br>
