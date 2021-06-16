@@ -10,10 +10,9 @@
 > jupyter lab --ip localhost --port $PORT1 --no-browser 
 > ### now copy the url to your web browser <br>
 
-# a, to install Python packages to python/3.7 kernel
+# to install Python packages to python/3.7 kernel
 $ module load python/3.7 <br>
 $ pip install --user mypackage
-
 
 # Alternatively, if you are familar with nano and .bashrc. just do this to achieve the same thing. 
 # 1. Simplified procedures to start Jupyterlab on Biowulf. 
