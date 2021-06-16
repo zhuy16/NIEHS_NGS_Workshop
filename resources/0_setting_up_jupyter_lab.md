@@ -10,23 +10,19 @@
 > jupyter lab --ip localhost --port $PORT1 --no-browser 
 > ### now copy the url to your web browser <br>
 
-# to install Python packages to python/3.7 kernel
-$ module load python/3.7 <br>
-$ pip install --user mypackage
-
-# Alternatively, if you are familar with nano and .bashrc. just do this to achieve the same thing. 
-# 1. Simplified procedures to start Jupyterlab on Biowulf. 
+### Alternatively, if you are familar with nano and .bashrc. just do this to achieve the same thing. 
+#### 1. Simplified procedures to start Jupyterlab on Biowulf. 
 Add this line to the local ~/.bashrc file:
 
-#### alias wulf="ssh -tX usr.name@biowulf.nih.gov 'echo ----hello loged-in!;bash -l'"
+##### alias wulf="ssh -tX usr.name@biowulf.nih.gov 'echo ----hello loged-in!;bash -l'"
 add these lines to the login ~/.bashrc file on biowulf. or if it doesn't work for you. just use 
 'ssh -X yourID@biowulf.nih.gov'
 
-#### alias tmt="module load tmux; tmux new -ct 'sinteractive --mem=50g --gres=lscratch:5 --tunnel'"
+##### alias tmt="module load tmux; tmux new -ct 'sinteractive --mem=50g --gres=lscratch:5 --tunnel'"
 
-#### alias ju='module load jupyter R/4.0.5 && jupyter lab --ip localhost --port $PORT1 --no-browser'
+##### alias ju='module load jupyter R/4.0.5 && jupyter lab --ip localhost --port $PORT1 --no-browser'
 
-on local machine type:
+on local terminal type:
 ### wulf
 it will automatically login into biowulf, and then type 
 ### tmt
