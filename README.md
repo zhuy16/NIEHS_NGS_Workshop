@@ -59,4 +59,4 @@ cp -r NIEHS_NGS_Workshop scatch/workshop # a local copy for your own use
 ln -s /data/user_id/ data # 100G quota
 #git clone https://github.com/zhuy16/NIEHS_RNA_seq_training.git 
 ```
-# the schedule of this workshop
+# The schedule of this workshop
