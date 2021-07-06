@@ -39,7 +39,7 @@ To start with jupyter lab.
 ```
 ssh -tX 
 ```diff
-usr.name
+- usr.name
 ```
 @biowulf.nih.gov <br>
 ```
