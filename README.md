@@ -33,7 +33,7 @@ then with hands-on practice/demo.
 
 To start with jupyter lab.
 
-# We will use jupyter lab interface on Biowulf. (NIH) Please refer to "getting_started.md" to setup the working environment.
+**We will use jupyter lab interface on Biowulf (an NIH HPC system), Please refer to "getting_started.md" to setup the working environment.**
 
 # The detailed plan of this workshop
 <br>
