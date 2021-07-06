@@ -44,7 +44,7 @@ tmux a -t 0
 sinteractive --mem=50g --gres=lscratch:5 --tunnel
 ```
 
-# in the tmux terminal, you request a computation node, ( and use ‘--tunel’ option to connect the computational node to your local machine’
+In the tmux terminal, you request a computation node, ( and use ‘--tunel’ option to connect the computational node to your local machine’
 ```
 sinteractive --mem=50g --gres=lscratch:5 --tunnel
 ```
