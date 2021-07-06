@@ -1,3 +1,5 @@
+Account information sent to your email: <br>
+for example <br>
 Username: student1 <br>
 Password: N1ehs_ngs_workshop
 
