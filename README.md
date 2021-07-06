@@ -33,40 +33,8 @@ then with hands-on practice/demo.
 
 To start with jupyter lab.
 
-# We will use jupyter lab interface on Biowulf. (NIH)
-## login into biowulf with ssh, initiate a detachable terminal through tmux, request a working node with sinteractive, and start to work with jupyter lab
+# We will use jupyter lab interface on Biowulf. (NIH) Please refer to "getting_started.md" to setup the working environment.
 
-
-ssh -tX ```diff - usr.name ``` @biowulf.nih.gov <br>
-
-## once login biowulf, request a computational node.
-```
-module load tmux; tmux new
-sinteractive --mem=50g --gres=lscratch:5 --tunnel 
-### copy the code "ssh ..." to a new terminal and enter.
-### come back to the tmux terminal with compute node, type --
-module load jupyter
-jupyter lab --ip localhost --port $PORT1 --no-browser 
-### now copy the url to your web browser
-
-### to install Python packages to python/3.7 kernel
-> module load python/3.7
-> pip install --user mypackage
-```
-
-This depository is setup for NIEHS training for RNA-seq.
-We will use biowulf and use jupyter lab as an interface. 
-
-Please log into your biowulf account, 
-```
-# establish pseudo links to our workshop folder. 
-ln -s /spin1/users/classes/NIEHS_NGS/NIEHS_NGS_Workshop # class resources
-ln -s /scratch/zhuy16/ scratch # temporary use, shared storage
-cp -r NIEHS_NGS_Workshop scatch/workshop # a local copy for your own use
-
-ln -s /data/user_id/ data # 100G quota
-#git clone https://github.com/zhuy16/NIEHS_RNA_seq_training.git 
-```
 # The detailed plan of this workshop
 <br>
 <img src="resources/day1schedule.png">
