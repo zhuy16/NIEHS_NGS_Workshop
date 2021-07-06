@@ -1,3 +1,6 @@
+<style>p{color:red;}</style>
+*foo*
+
 # NIEHS_NGS_Workshop (Currently Under Construction)<br>
 This is 2-day (4hr each day) workshop on NGS data analysis.<br> 
 We will use biowulf HPC as the computation evironment, and use jupyter lab as a interface  <br>
