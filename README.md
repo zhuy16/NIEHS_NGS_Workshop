@@ -1,14 +1,3 @@
-<style>p{color:red;}</style>
-*foo*
-
-```diff
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
-...
-
 # NIEHS_NGS_Workshop (Currently Under Construction)<br>
 This is 2-day (4hr each day) workshop on NGS data analysis.<br> 
 We will use biowulf HPC as the computation evironment, and use jupyter lab as a interface  <br>
@@ -46,7 +35,15 @@ To start with jupyter lab.
 
 # We will use jupyter lab interface on Biowulf. (NIH)
 ## login into biowulf with ssh, initiate a detachable terminal through tmux, request a working node with sinteractive, and start to work with jupyter lab
-> ssh -tX usr.name@biowulf.nih.gov <br>
+
+```
+ssh -tX 
+```diff
+usr.name
+```
+@biowulf.nih.gov <br>
+```
+## once login biowulf, request a computational node.
 ```
 module load tmux; tmux new
 sinteractive --mem=50g --gres=lscratch:5 --tunnel 
