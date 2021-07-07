@@ -9,11 +9,11 @@
 * This is 2-day (4hr each day) workshop on NGS data analysis.<br> 
 Briefly, <br>
 
- * On the 1st day, I will start from NGS_Workshop_Day1.pdf from the resources folder, do a ~30mins presentation.<br>
+   * On the 1st day, I will start from NGS_Workshop_Day1.pdf from the resources folder, do a ~30mins presentation.<br>
 This will help setting up the working environment and get background knowledge on single-cell RNA-seq. <br>
 The presentation will be followed by practical exercises in the scRNA-seq/notebooks folder.<br>
  
- * On the 2nd day, I will start from the NGS_Workshop_Day2.pdf file to do a presentation, which will be followed by exercise in the bulk-RNA and ChIP-seq folder. 
+   * On the 2nd day, I will start from the NGS_Workshop_Day2.pdf file to do a presentation, which will be followed by exercise in the bulk-RNA and ChIP-seq folder. 
 
 
 ## This training will be divided into 3 parts. 
