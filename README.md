@@ -1,6 +1,6 @@
-# NIEHS_NGS_Workshop (Currently Under Construction)<br>
+# NIEHS_NGS workshop (Currently Under Construction)<br>
 This is 2-day (4hr each day) workshop on NGS data analysis.<br> 
-We will use biowulf HPC as the computation evironment, and use jupyter lab as a interface  <br>
+We will use biowulf HPC as the computation evironment, and use jupyter lab as an interface  <br>
 
 **This repository is for illustration only. Data files are included in biowulf folders for use in the class.**<br>
 
