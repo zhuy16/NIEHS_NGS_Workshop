@@ -15,7 +15,7 @@ The presentation will be followed by practical exercises in the scRNA-seq/notebo
  
    * On the 2nd day, we will discuss Bulk RNA-seq and ChIP-seq. I will start from the NGS_Workshop_Day2.pdf file to do a presentation, which will be followed by exercises in the bulk-RNA and ChIP-seq folder. 
 
-* **We will use jupyter lab interface on Biowulf (an NIH HPC system), Please refer to [getting_started.md](./getting_started.md) to setup the working environment.**
+* **We will use jupyter lab interface on Biowulf (an NIH HPC system), Please refer to [Getting_started.md](./Getting_started.md) to setup the working environment.**
 
 # The detailed plan of this workshop
 <br>
