@@ -9,22 +9,13 @@
 * This is 2-day (4hr each day) workshop on NGS data analysis.<br> 
 Briefly, <br>
 
-   * On the 1st day, I will start from NGS_Workshop_Day1.pdf from the resources folder, do a ~30mins presentation.<br>
+   * On the 1st day, we will focus on single cell RNA-seq. I will start from NGS_Workshop_Day1.pdf from the resources folder, do a ~30mins presentation.<br>
 This will help setting up the working environment and get background knowledge on single-cell RNA-seq. <br>
 The presentation will be followed by practical exercises in the scRNA-seq/notebooks folder.<br>
  
-   * On the 2nd day, I will start from the NGS_Workshop_Day2.pdf file to do a presentation, which will be followed by exercise in the bulk-RNA and ChIP-seq folder. 
+   * On the 2nd day, we will discuss Bulk RNA-seq and ChIP-seq. I will start from the NGS_Workshop_Day2.pdf file to do a presentation, which will be followed by exercises in the bulk-RNA and ChIP-seq folder. 
 
-
-## This training will be divided into 3 parts. 
-
-1. Single cell RNA-seq <br> 
-2. Bulk-RNA-seq <br>
-3. Chip-seq<br>
-
-Each part will be given with a 15-30 minutes background introduction followed by hands-on practice/demoenstration. 
-
-**We will use jupyter lab interface on Biowulf (an NIH HPC system), Please refer to "getting_started.md" to setup the working environment.**
+* **We will use jupyter lab interface on Biowulf (an NIH HPC system), Please refer to "getting_started.md" to setup the working environment.**
 
 # The detailed plan of this workshop
 <br>
