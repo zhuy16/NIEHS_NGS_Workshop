@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# NIEHS_NGS workshop (Currently Under Construction)<br>
-This is 2-day (4hr each day) workshop on NGS data analysis.<br> 
-We will use biowulf HPC as the computation evironment, and use jupyter lab as an interface  <br>
-=======
 # NIEHS_NGS_Workshop (Currently Under Construction)<br>
 * Target audience: NIEHS researchers who want to learn NGS data analysis.
 * Aims: to provide an overview of NGS analysis workflow for scRNA-seq, bulk RNA-seq and ChIP-seq. <br>
@@ -10,10 +5,7 @@ We will use biowulf HPC as the computation evironment, and use jupyter lab as an
 * We will use biowulf HPC as the computation evironment, and use jupyter lab as a interface  <br>
 * This repository is for illustration only. Data files are included in biowulf folders for use in the class.**<br>
 * The README.md contains information to set up the workplace. <br>
->>>>>>> 7fc32b2ce55b53d565537243a1bb94ef665ab199
-
 * This is 2-day (4hr each day) workshop on NGS data analysis.<br> 
-Briefly, <br>
 
    * On the 1st day, we will focus on single cell RNA-seq. I will start from NGS_Workshop_Day1.pdf from the resources folder, do a ~30mins presentation.<br>
 This will help setting up the working environment and get background knowledge on single-cell RNA-seq. <br>
