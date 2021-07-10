@@ -2,8 +2,8 @@
 * Target audience: NIEHS researchers who want to learn NGS data analysis.
 * Aims: to provide an overview of NGS analysis workflow for scRNA-seq, bulk RNA-seq and ChIP-seq. <br>
 * Prerequisite: comfortable with shell scripts, R and python codes.  
-* We will use biowulf HPC as the computation evironment, and use jupyter lab as a interface  <br>
-* This repository is for illustration only. Data files are included in biowulf folders for use in the class.**<br>
+* We will use biowulf HPC as the computation environment, and use Jupyter lab as an interface  <br>
+* This repository is for illustration only. Data files are included in Biowulf folders for use in the class.**<br>
 * The README.md contains information to set up the workplace. <br>
 * This is 2-day (4hr each day) workshop on NGS data analysis.<br> 
 
