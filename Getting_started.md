@@ -13,7 +13,7 @@ enter password
 cd /scratch 
 mkdir userID
 cd
-ln -s /scratch/userID scratch
+ln -s /scratch/userID NIEHS_NGS
 ln -s /data data
 ```
 
