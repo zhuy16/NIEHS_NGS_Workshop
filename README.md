@@ -15,7 +15,7 @@ The presentation will be followed by practical exercises in the scRNA-seq/notebo
 
 * **We will use jupyter lab interface on Biowulf (an NIH HPC system), Please refer to [Getting_started.md](./Getting_started.md) to setup the working environment.**
 <br>
-**Questions and Feedback during/after the workshop can go here [Questions & Feedback](https://docs.google.com/document/d/1LcRZF0wMfYkhl3icrB5phSL8zYxIAA6G3wmS3S-iT2s/edit?usp=sharing)**
+**Questions and Feedback during/after the workshop can go here [Questions & Feedback]**(https://docs.google.com/document/d/1LcRZF0wMfYkhl3icrB5phSL8zYxIAA6G3wmS3S-iT2s/edit?usp=sharing)
 
 # The detailed plan of this workshop
 <br>
