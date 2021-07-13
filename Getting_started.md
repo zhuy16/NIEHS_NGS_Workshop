@@ -68,6 +68,7 @@ Copy this to the new terminal: (for example)‘ssh  -L 42446:localhost:42446 stu
 
 
 # 5. Initiate the jupyter lab interface
+**Go back to previous terminal**
 ```
 cd 
 module load jupyter
