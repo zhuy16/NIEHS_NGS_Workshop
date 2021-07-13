@@ -18,6 +18,6 @@ The presentation will be followed by practical exercises in the scRNA-seq/notebo
 
 # The detailed plan of this workshop
 <br>
-<img src="resources/day1_agenda.png">
+<img src="./day1_agenda.png">
 <br>
-<img src="resources/day2_agenda.png">
+<img src="./day2_agenda.png">
