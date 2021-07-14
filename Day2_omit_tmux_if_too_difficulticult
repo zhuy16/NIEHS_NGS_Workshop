@@ -1,3 +1,10 @@
+To check existing tmux terminals, you will need 
+
+module load tmux, 
+tmux list-sessions
+tmux kill-session -t 1
+
+
 Account information sent to your email: <br>
 for example <br>
 Username: student1 <br>
@@ -18,6 +25,11 @@ require a computational node and copy the workshop folder
 sinteractive 
 ```
 an interactive session will be established witin a minutes or so.
+```
+cd ~/NIEHS_NGS/
+rm -rf workshop
+```
+recopy it from the folder
 ```
 cp -r /spin1/users/classes/NIEHS_NGS/workshop ~/NIEHS_NGS/
 ```
